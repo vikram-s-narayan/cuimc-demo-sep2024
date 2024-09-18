@@ -55,5 +55,5 @@ prompt = (
 gpt4_response = get_gpt4o_response(prompt, all_documents_content)
 
 # Display the response in the Streamlit app
-st.subheader("GPT-4 Review")
+
 st.write(gpt4_response)
