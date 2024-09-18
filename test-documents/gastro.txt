@@ -1,0 +1,18 @@
+Gastroenterologist Report
+Title: Gastroenterologist Consultation Report
+Patient Name: Katherine Angulo
+DOB: 09/28/1996
+Date of Consultation: [Insert Date]
+Procedure Performed: Upper Endoscopy (EGD)
+Findings:
+Esophagus: Mild inflammation noted, no signs of Barrett's Esophagus.
+Stomach: Normal mucosa observed; no ulcers or lesions identified.
+H. Pylori Test: Negative
+Assessment:
+Patient presents with a history of morbid obesity and has been evaluated for bariatric surgery. Upper endoscopy findings are within normal limits.
+No contraindications for bariatric surgery from a gastroenterological standpoint. Plan:
+Patient is cleared for bariatric surgery.
+Recommend continuation of current GI management as needed post-surgery.
+Physician: Dr. [Gastroenterologist Name]
+Signature: ____________________
+Date: [Insert Date]

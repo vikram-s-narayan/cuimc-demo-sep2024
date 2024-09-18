@@ -1,0 +1,15 @@
+Cardiologist Report
+Title: Cardiologist Clearance Letter
+Patient Name: Katherine Angulo
+DOB: 09/28/1996
+Date of Consultation: [Insert Date]
+Summary:
+EKG: Normal sinus rhythm, no evidence of ischemia.
+Echocardiogram: Normal ejection fraction, no structural abnormalities.
+Cardiac History: No prior history of coronary artery disease, arrhythmias, or other significant cardiac events. Assessment:
+Patient is at low cardiac risk for bariatric surgery. Recommendations:
+Cleared for bariatric surgery from a cardiac standpoint.
+No additional preoperative cardiac testing required.
+Cardiologist: Dr. [Cardiologist's Name]
+Signature: ____________________
+Date: [Insert Date]

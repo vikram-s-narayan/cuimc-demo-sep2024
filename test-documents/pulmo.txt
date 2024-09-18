@@ -1,0 +1,14 @@
+Pulmonologist Report
+Title: Pulmonologist Clearance Report
+Patient Name: Katherine Angulo
+DOB: 09/28/1996
+Date of Consultation: [Insert Date]
+Summary:
+Sleep Study: Positive for Obstructive Sleep Apnea (OSA), moderate severity.
+Pulmonary Function Tests (PFTs): Within normal limits, no evidence of restrictive or obstructive lung disease. Assessment:
+OSA is currently managed with CPAP therapy. Recommendations:
+Patient is cleared for bariatric surgery.
+Recommend continuation of CPAP therapy during perioperative period.
+Pulmonologist: Dr. [Pulmonologist's Name]
+Signature: ********\_\_\_\_********
+Date: [Insert Date]
