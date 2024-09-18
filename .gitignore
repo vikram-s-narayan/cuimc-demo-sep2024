@@ -2,3 +2,4 @@ __pycache__
 .env
 user-docs
 ent-extract-example.py
+cuimc-venv
