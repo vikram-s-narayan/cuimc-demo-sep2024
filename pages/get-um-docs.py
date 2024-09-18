@@ -15,7 +15,7 @@ cpt_code = st.text_input(label='Enter CPT Code')
 if st.button('Submit'):
     run_scraper('Commercial', 'NY', cpt_code)
 
-
+st.page_link("pages/upload-files.py", label="Upload Available Docs")
 
 
 

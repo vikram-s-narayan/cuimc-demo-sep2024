@@ -22,3 +22,5 @@ else:
         with open(file_path, "wb") as f:
             f.write(uploaded_file.getbuffer())
         st.success(f"File {uploaded_file.name} saved successfully!")
+
+st.page_link("pages/get-doc-recs.py", label="Get Document Recommendations")
